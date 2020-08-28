@@ -1,1 +1,2 @@
 # BUAN-4210-MarvelMartPython
+A junior year Python project, that required a lot of data wrangling and data cleaning. The necessary files are uploaded to this repository. There's an error in the code that my professor and I were unable to figure out at the time, a lot of the data gets deleted for some reason. This happens in the data cleaning stage. Besides that, everything works as intended. Looking back I definitely should have used more functions... Would have made the project a lot easier.
